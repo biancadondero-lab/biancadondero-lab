@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hola, soy Bianca 👋
 
-<!--
-**biancadondero-lab/biancadondero-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marketing Digital & Data · Retención / CRM**
+📍 Mar del Plata, Argentina · Presencial (MdP) o remoto
 
-Here are some ideas to get you started:
+Analista de marketing con foco en retención de clientes y decisiones basadas en datos. Actualmente en **BBVA Argentina** gestiono operaciones sobre CRM y acompaño a más de 100 clientes por semana en la adopción de canales digitales. Tengo tres temporadas de experiencia gestionando redes sociales y contenido para marcas locales, y curso el **Google Data Analytics Professional Certificate** (SQL, hojas de cálculo, visualización) para sumar una mirada analítica al marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco un rol de **CRM / retención** o **marketing analytics**.
+
+- 💼 Trabajando actualmente en: Gestor Express — BBVA Argentina
+- 🎓 Estudiando: Licenciatura en Marketing — Universidad CAECE (2024–2027)
+- 📊 Cursando: Google Data Analytics Professional Certificate
+- 🛠️ Herramientas: CRM, Meta Business Suite, Canva, SQL, hojas de cálculo
+- 🌐 Idiomas: Español (nativo), Inglés (avanzado)
+- 📫 LinkedIn: [linkedin.com/in/biancadondero](https://www.linkedin.com/in/biancadondero)
+
+---
+
+#### Experiencia
+
+**Gestor Express** · BBVA Argentina — *Ene 2026 – Presente*
+Operaciones sobre CRM y sistemas internos del banco; acompaño la migración de clientes a app y banca online.
+
+**Community Manager** · Mar del Plata Digital — *Ene 2023 – Mar 2025*
+Gestión de redes de marcas locales durante tres temporadas de verano; planificación y publicación de contenido en Instagram y Facebook.
+
+**Asistente de Marketing Digital** · Inmobiliatica.com — *Ene 2023 – Mar 2025*
+Apoyo a la estrategia de comunicación digital de una plataforma inmobiliaria, con contenido orientado a conversión.
