@@ -1,4 +1,4 @@
-### Hola, soy Bianca 👋
+### Hola, soy Bianca 
 
 **Marketing Digital & Data · Retención / CRM**
 📍 Mar del Plata, Argentina · Presencial (MdP) o remoto
@@ -7,12 +7,12 @@ Analista de marketing con foco en retención de clientes y decisiones basadas en
 
 Busco un rol de **CRM / retención** o **marketing analytics**.
 
-- 💼 Trabajando actualmente en: Gestor Express — BBVA Argentina
-- 🎓 Estudiando: Licenciatura en Marketing — Universidad CAECE (2024–2027)
-- 📊 Cursando: Google Data Analytics Professional Certificate
-- 🛠️ Herramientas: CRM, Meta Business Suite, Canva, SQL, hojas de cálculo
-- 🌐 Idiomas: Español (nativo), Inglés (avanzado)
-- 📫 LinkedIn: [linkedin.com/in/biancadondero](https://www.linkedin.com/in/biancadondero)
+-  Trabajando actualmente en: Gestor Express — BBVA Argentina
+-  Estudiando: Licenciatura en Marketing — Universidad CAECE (2024–2027)
+-  Cursando: Google Data Analytics Professional Certificate
+-  Herramientas: CRM, Meta Business Suite, Canva, SQL, hojas de cálculo
+-  Idiomas: Español (nativo), Inglés (avanzado)
+-  LinkedIn: [linkedin.com/in/biancadondero](https://www.linkedin.com/in/biancadondero)
 
 ---
 
